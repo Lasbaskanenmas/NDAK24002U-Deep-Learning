@@ -1,0 +1,1 @@
+{"epoch":0,"train_elbo":-157.55668618745892,"val_elbo":-1666.2829765625,"kl_warmup_factor":0,"_timestamp":1.768378377995234e+09,"_wandb":{"runtime":66},"_runtime":66,"_step":0}

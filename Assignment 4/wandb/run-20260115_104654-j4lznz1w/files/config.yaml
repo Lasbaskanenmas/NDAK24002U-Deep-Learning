@@ -1,0 +1,70 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            fdfdrsimpgwzp1dxms9xes0lvt3sy5o5:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 16
+                    memoryGb: 16
+                    name: Apple M2 Pro
+                    pcpuCores: 6
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "18253611008"
+                codePath: /Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4/hierarchical_VAE.ipynb
+                codePathLocal: hierarchical_VAE.ipynb
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "378900652032"
+                email: last24ag@student.cbs.dk
+                executable: /opt/miniconda3/bin/python
+                git:
+                    commit: 53b9091d70f0df51cfced65d429837f29d45e2dd
+                    remote: https://github.com/Lasbaskanenmas/Deep-Learning-4.git
+                host: Lasses-MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.6.1-arm64-arm-64bit
+                program: /Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4/hierarchical_VAE.ipynb
+                python: CPython 3.12.2
+                root: /Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4
+                startedAt: "2026-01-15T09:46:54.967558Z"
+                writerId: fdfdrsimpgwzp1dxms9xes0lvt3sy5o5
+        m: []
+        python_version: 3.12.2
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.12.2
+            "5": 0.23.0
+            "8":
+                - 1
+            "12": 0.23.0
+            "13": darwin-arm64
+T:
+    value: 3
+batch_size:
+    value: 256
+hidden_dim:
+    value: 512
+latent_dim:
+    value: 64
+lr:
+    value: 0.0001
+n_epochs:
+    value: 50
+task:
+    value: 1.3_extended_training
+warmup_epochs:
+    value: 20

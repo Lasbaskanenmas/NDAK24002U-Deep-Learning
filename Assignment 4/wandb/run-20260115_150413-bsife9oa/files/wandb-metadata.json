@@ -1,0 +1,37 @@
+{
+  "os": "macOS-15.6.1-arm64-arm-64bit",
+  "python": "CPython 3.12.2",
+  "startedAt": "2026-01-15T14:04:13.809519Z",
+  "program": "/Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4/hierarchical_VAE.ipynb",
+  "codePath": "/Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4/hierarchical_VAE.ipynb",
+  "codePathLocal": "hierarchical_VAE.ipynb",
+  "git": {
+    "remote": "https://github.com/Lasbaskanenmas/Deep-Learning-4.git",
+    "commit": "c4271187e022dcde75b88d73819f7cd84e489388"
+  },
+  "email": "last24ag@student.cbs.dk",
+  "root": "/Users/lassestrandbygaard/Desktop/MSc Data Science/Deep Learning/Assignments/Assignment 4",
+  "host": "Lasses-MacBook-Pro.local",
+  "executable": "/opt/miniconda3/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "380314877952"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M2 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 6,
+    "gpuCores": 16,
+    "memoryGb": 16,
+    "swapTotalBytes": "19327352832",
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "6nezwfvb4kcxfwoctp02l7sg7ff1vtjv"
+}

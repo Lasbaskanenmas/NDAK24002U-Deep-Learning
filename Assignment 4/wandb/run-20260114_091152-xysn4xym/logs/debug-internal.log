@@ -1,0 +1,6 @@
+{"time":"2026-01-14T09:11:52.479881+01:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2026-01-14T09:11:52.82305+01:00","level":"INFO","msg":"stream: created new stream","id":"xysn4xym"}
+{"time":"2026-01-14T09:11:52.823103+01:00","level":"INFO","msg":"handler: started","stream_id":"xysn4xym"}
+{"time":"2026-01-14T09:11:52.823441+01:00","level":"INFO","msg":"stream: started","id":"xysn4xym"}
+{"time":"2026-01-14T09:11:52.82345+01:00","level":"INFO","msg":"sender: started","stream_id":"xysn4xym"}
+{"time":"2026-01-14T09:11:52.823439+01:00","level":"INFO","msg":"writer: started","stream_id":"xysn4xym"}
